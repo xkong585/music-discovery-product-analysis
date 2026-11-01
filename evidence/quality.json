@@ -1,0 +1,34 @@
+{
+  "raw_rows": 19150868,
+  "parser_rejects": 0,
+  "valid_events": 18993371,
+  "users": 991,
+  "raw_min_timestamp": "2005-02-14 00:00:07",
+  "raw_max_timestamp": "2013-09-29 18:32:04",
+  "outside_administrative_window": 157497,
+  "cutoff_note": "Conservative exclusive 2009-05-05 boundary from publisher description; real file contains later records through June 2009 and two timestamps in 2010/2013. Full raw span is audited; later records do not extend follow-up.",
+  "exclusive_cutoff_utc": "2009-05-05",
+  "ambiguous_missing_id_excluded": 0,
+  "invalid_required_fields": 0,
+  "artist_day_rows": 7066060,
+  "first_artist_pairs": 899593,
+  "eligible_events7": 661390,
+  "eligible_users7": 932,
+  "eligible_events28": 645924,
+  "eligible_users28": 914,
+  "key_methods": [
+    {
+      "key_method": "name_only",
+      "n": 600919
+    },
+    {
+      "key_method": "original_id",
+      "n": 18548702
+    },
+    {
+      "key_method": "unique_name_to_id",
+      "n": 1247
+    }
+  ],
+  "exact_duplicate_candidates": 17700
+}

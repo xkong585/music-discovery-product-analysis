@@ -1,0 +1,25 @@
+{
+  "cases": 30,
+  "exact_plan_accuracy": 0.7666666666666667,
+  "tool_accuracy": 0.7666666666666667,
+  "keyword_baseline_exact_accuracy": 0.43333333333333335,
+  "schema_valid_rate": 0.9,
+  "all_requests_p50_seconds": 0.73888070799876,
+  "all_requests_p95_seconds": 0.899227889429312,
+  "model_load_seconds": 1.5665916670113802,
+  "total_input_tokens_tokenizer_count": 9489,
+  "total_output_tokens_tokenizer_count": 611,
+  "external_api_calls": 0,
+  "dollar_cost": null,
+  "cost_note": "Local open-weight inference. No external inference API billed; hardware, electricity and amortized cost not measured. Dollar cost per valid output not claimed.",
+  "errors": [
+    "final-07",
+    "final-27",
+    "final-28",
+    "final-29",
+    "final-09",
+    "final-08",
+    "final-04"
+  ],
+  "data_sha256": "ae2d038afcc1b7a8e2e360ac96d102cd3129df14e76b78be6c0abba2e3d2b4c4"
+}

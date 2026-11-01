@@ -1,0 +1,10 @@
+{
+  "source": "https://zenodo.org/records/6090214",
+  "download_url": "https://zenodo.org/records/6090214/files/lastfm-dataset-1K.tar.gz?download=1",
+  "retrieved_utc": "2026-11-01T08:05:56.695564+00:00",
+  "archive_bytes": 672741554,
+  "md5": "a79a6808f54f73354789a9fb02cb1e41",
+  "sha256": "c8075a048b0e14737c0b38d708f9e8e56a37193f33c6592e599bfcaa982bdb70",
+  "tsv_sha256": "529b8f83aadabdead189de06d816e213557221b92cb43c46f25840e07ef3399a",
+  "license": "Non-commercial use; cite Last.fm (https://www.last.fm/) and author \u00d2scar Celma / MTG-UPF. Raw logs and profiles excluded from public outputs."
+}

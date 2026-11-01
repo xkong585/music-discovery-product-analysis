@@ -1,0 +1,9 @@
+{
+  "sql_event_rate": 0.20535538789519042,
+  "pandas_event_rate": 0.20535538789519042,
+  "sql_user_rate": 0.22729583935335165,
+  "pandas_user_rate": 0.2272958393533517,
+  "artist_day_reconciles": true,
+  "past_feature_positive_denominator": true,
+  "d0_excluded": true
+}
