@@ -14,7 +14,7 @@
 
 - **19,150,868 original records**, author MD5 verified; **0 parser rejects**. No generated listening data.
 - **18,993,371** records retained before conservative exclusive May 5, 2009 cutoff; **157,497** later timestamps audited and excluded.
-- **932 users / 661,390 eligible first-artist events**; user-weighted observed 7-day repeat **22.73%** (95% interval **21.87%–23.57%**).
+- **932 users / 661,390 eligible first-artist events**; user-weighted observed 7-day repeat **22.73%** (95% interval **21.87%–23.55%**).
 - Four cohort definitions, past-only behavioral segments, 2,000 user-cluster resamples, independent DuckDB/pandas reconciliation and executable tests.
 
 ![Scope and sample flow](docs/assets/sample_flow.png)

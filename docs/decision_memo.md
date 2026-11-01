@@ -6,14 +6,14 @@ Prioritize a small, concrete user-research study before committing engineering e
 
 ## What the data establishes
 
-Parsed all **19,150,868** original author-published records with zero parser rejects. The conservative analysis window retains **18,993,371** records and **991** listeners. There are **661,390** eligible first-artist events from **932** users. Main user-weighted observed 7-day artist repeat is **22.73%**, 95% user-cluster bootstrap interval **21.87%–23.57%**. The event-weighted proportion is **20.54%**; heavier explorers influence that different estimand more.
+Parsed all **19,150,868** original author-published records with zero parser rejects. The conservative analysis window retains **18,993,371** records and **991** listeners. There are **661,390** eligible first-artist events from **932** users. Main user-weighted observed 7-day artist repeat is **22.73%**, 95% user-cluster bootstrap interval **21.87%–23.55%**. The event-weighted proportion is **20.54%**; heavier explorers influence that different estimand more.
 
 | Cohort | Users | First-artist events | User mean | 95% interval |
 |---|---:|---:|---:|---:|
-| 60-day history | 932 | 661,390 | 22.73% | 21.87%–23.57% |
-| 90-day history | 902 | 613,602 | 22.89% | 22.02%–23.75% |
-| Reliable ID subset | 932 | 593,598 | 23.09% | 22.24%–23.95% |
-| Common 28-day cohort | 914 | 645,924 | 22.86% | 21.99%–23.72% |
+| 60-day history | 932 | 661,390 | 22.73% | 21.87%–23.55% |
+| 90-day history | 902 | 613,602 | 22.89% | 22.07%–23.79% |
+| Reliable ID subset | 932 | 593,598 | 23.09% | 22.22%–23.93% |
+| Common 28-day cohort | 914 | 645,924 | 22.86% | 22.01%–23.81% |
 
 ![Past behavior groups](assets/segments.png)
 

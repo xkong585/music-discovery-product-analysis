@@ -4,9 +4,9 @@
   "tool_accuracy": 0.7666666666666667,
   "keyword_baseline_exact_accuracy": 0.43333333333333335,
   "schema_valid_rate": 0.9,
-  "all_requests_p50_seconds": 0.73888070799876,
-  "all_requests_p95_seconds": 0.899227889429312,
-  "model_load_seconds": 1.5665916670113802,
+  "all_requests_p50_seconds": 0.6969099165289663,
+  "all_requests_p95_seconds": 0.843748691404471,
+  "model_load_seconds": 1.700588500010781,
   "total_input_tokens_tokenizer_count": 9489,
   "total_output_tokens_tokenizer_count": 611,
   "external_api_calls": 0,
@@ -21,5 +21,5 @@
     "final-08",
     "final-04"
   ],
-  "data_sha256": "ae2d038afcc1b7a8e2e360ac96d102cd3129df14e76b78be6c0abba2e3d2b4c4"
+  "data_sha256": "da549fae14a68ad7b20b96da5d949ca61e68af22f28e507b9ef3d2fd648bb032"
 }
