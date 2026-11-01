@@ -1,10 +1,12 @@
 # Music Discovery and Repeat Listening
 
+[![Validate evidence](https://github.com/xkong585/music-discovery-product-analysis/actions/workflows/validate.yml/badge.svg)](https://github.com/xkong585/music-discovery-product-analysis/actions/workflows/validate.yml)
+
 **Product question:** Should a music product prioritize active exploration, familiar-content access, or retrieval of recent discoveries?
 
 **Decision:** research the need before building a retrieval feature. Real historical logs support behavior measurement, not user intent or causal feature lift.
 
-[Interactive research](https://xiangyi-music-product-lab.braveape12.chatgpt.site/) (owner-private Sites preview) · [Product memo](docs/decision_memo.md) · [Metric contract](docs/product_brief.md) · [Source and QC](evidence/source_manifest.json)
+[Interactive research](https://xkong585.github.io/music-discovery-product-analysis/) · [Product memo](docs/decision_memo.md) · [Metric contract](docs/product_brief.md) · [Source and QC](evidence/source_manifest.json)
 
 ![Behavior segments with uncertainty](docs/assets/segments.png)
 
@@ -25,6 +27,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python src/download.py
 python src/analyze.py --archive data/raw/lastfm-dataset-1K.tar.gz
+python src/build_report.py
 pytest tests -q
 python -m http.server 8766 --directory site
 ```
